@@ -14,7 +14,7 @@
 
 🐉 By the way, my last name is a pseudonym that comes from the name of a dragon I imagined when I was a child 🐉
 
-👷 If you want to check my active projects, take a look at my pinned repositories ⬇️
+⬇️ If you want to check my active projects 👷, take a look at my pinned repositories ⬇️
 
 <!--
 **ClementNerma/ClementNerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
