@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm Clément Nerma, a professional web developer (more precisely a Nest.js backend developer) living near by Nantes, in France 🙂
+🙂 I'm Clément Nerma, a professional web developer (more precisely a Nest.js backend developer) living near by Nantes, in France
 
-I'm fond of programming since I'm 10 years old 👦
+👦 I'm fond of programming since I'm 10 years old
 
-I often make small command-line utilities as well as big projects like operating systems ([check it out!](https://github.com/ClementNerma/NightOS)) 💻
+💻 I often make small command-line utilities as well as big projects like operating systems ([check it out!](https://github.com/ClementNerma/NightOS))
 
-I also write fantasy and science fiction books on my free time 📖
+📖 I also write fantasy and science fiction books on my free time
 
-By the way, my last name is a pseudonym that comes from the name of a dragon I imagined when I was a child 🐉
+🐉 By the way, my last name is a pseudonym that comes from the name of a dragon I imagined when I was a child 🐉
 
 <!--
 **ClementNerma/ClementNerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
