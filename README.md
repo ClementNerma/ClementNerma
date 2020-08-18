@@ -1,6 +1,4 @@
-### 👋 Hi there
-
-👋 Welcome to my profile.
+### 👋 Hi there. Welcome to my profile.
 
 🙂 I'm Clément Nerma, a professional web developer (more precisely a Nest.js backend developer) living near by Nantes, in France
 
