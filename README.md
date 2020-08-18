@@ -8,7 +8,7 @@
 
 📖 I also write fantasy and science fiction books on my free time
 
-📫 You can contact me using my usual e-mail address: [mailto:clement.nerma@gmail.com](clement.nerma@gmail.com)
+📫 You can contact me using my usual e-mail address: [clement.nerma@gmail.com](mailto:clement.nerma@gmail.com)
 
 🐉 By the way, my last name is a pseudonym that comes from the name of a dragon I imagined when I was a child 🐉
 
