@@ -6,7 +6,7 @@
 
 👦 I'm fond of programming since I'm 10 years old
 
-💻 I make stuff like [virtual machines](https://github.com/ClementNerma/MRVM) and sometimes big projects like full-powered operating systems ([check it out!](https://github.com/ClementNerma/NightOS))
+💻 I make stuff like [virtual machines](https://github.com/ClementNerma/MRVM) and sometimes big projects like full-powered [operating systems](https://github.com/ClementNerma/NightOS)
 
 📖 I also write fantasy and science fiction books on my free time
 
