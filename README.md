@@ -1,8 +1,6 @@
 ### 👋 Hi there. Welcome to my profile.
 
-🙂 I'm Clément Nerma, a professional web developer (more precisely a Nest.js backend developer) living in France
-
-👦 I'm fond of programming since I'm 10 years old
+🙂 I'm Clément Nerma, a professional web developer living in France
 
 💻 I make stuff like [virtual machines](https://github.com/ClementNerma/MRVM) and sometimes big projects like full-powered [operating systems](https://github.com/ClementNerma/NightOS) and [shells](https://github.com/ClementNerma/ReShell)
 
