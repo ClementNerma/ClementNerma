@@ -4,12 +4,6 @@
 
 💻 I make stuff like [virtual machines](https://github.com/ClementNerma/MRVM) and sometimes big projects like full-powered [operating systems](https://github.com/ClementNerma/NightOS) and [shells](https://github.com/ClementNerma/ReShell)
 
-📖 I also write fantasy and science fiction books on my free time
-
-📖 Want to read some articles I read? Check out my [blog](https://clementnerma.github.io/EverythingGeeks/)!
-
-📫 You can also contact me using my usual e-mail address: [clement.nerma@gmail.com](mailto:clement.nerma@gmail.com)
-
-🐉 By the way, my last name is a pseudonym that comes from the name of a dragon I imagined when I was a child 🐉
+🧑‍💼 Need someone to work on some Rust or TypeScript project? Feel free to reach out at [clement.nerma@gmail.com](mailto:clement.nerma@gmail.com)
 
 ⬇️ If you want to check my active projects 👷, take a look at my pinned repositories ⬇️
